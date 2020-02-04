@@ -1,1 +1,4 @@
-data/data.txt
+
+data
+.DS_Store
+*.m~
